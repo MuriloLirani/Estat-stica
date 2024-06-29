@@ -371,125 +371,125 @@ Patient ID,Birthday,Sex,Baseline Score on House–Brackmann scale,Time between o
 370,1970-07-09,Male,4,>48 to ≤72 hr,Acyclovir–Placebo,No,Yes,2,No,2,No
 371,1979-05-30,Male,4,Within 24 hr,Acyclovir–Placebo,No,Yes,1,Yes,1,Yes
 372,1988-08-07,Male,6,>24 to ≤48 hr,Acyclovir–Placebo,No,Yes,2,No,1,Yes
-470,1929-08-06,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
-445,1930-07-18,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-387,1936-06-21,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-418,1940-07-18,Male,5,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-484,1942-04-29,Male,6,Within 24 hr,Placebo–Placebo,No,No,4,No,4,No
-437,1946-03-02,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-403,1946-11-08,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-435,1948-02-13,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-415,1949-02-13,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-442,1951-08-23,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-440,1953-03-07,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-439,1953-05-29,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-375,1953-12-20,Female,4,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
-450,1954-02-11,Male,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-462,1956-10-16,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-467,1957-10-16,Male,4,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
-469,1957-12-08,Female,5,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
-455,1959-04-29,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-487,1959-07-04,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-378,1959-07-18,Male,2,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
-379,1959-11-02,Female,3,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
-485,1959-11-07,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-373,1960-01-08,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-382,1960-12-10,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,3,No
-389,1961-07-22,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-409,1961-11-02,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-492,1963-01-10,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-423,1963-05-24,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-421,1964-04-11,Female,6,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-384,1964-06-28,Female,2,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-420,1964-08-07,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
-448,1964-08-21,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-394,1964-09-04,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,1,Yes
-459,1964-10-31,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,2,No
-478,1965-03-11,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-399,1965-07-06,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-397,1965-08-15,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-464,1965-08-25,Male,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-486,1966-06-21,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-449,1967-07-08,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-456,1968-06-06,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-411,1968-06-26,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-471,1969-02-10,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-474,1969-02-17,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-452,1969-05-30,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-380,1969-11-26,Female,2,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-407,1969-12-10,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-402,1970-04-01,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-377,1970-07-21,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
-428,1970-07-22,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-457,1971-03-08,Male,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-376,1971-03-25,Female,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-396,1971-04-21,Female,4,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
-422,1971-06-26,Male,4,>48 to ≤72 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-388,1972-03-14,Male,3,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-424,1972-04-02,Male,5,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
-444,1973-01-10,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-416,1973-11-28,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-431,1973-12-08,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-406,1974-01-07,Female,5,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
-451,1974-05-05,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-482,1974-09-02,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-404,1975-03-27,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-468,1975-09-03,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
-472,1975-11-04,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-398,1975-11-08,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-453,1975-12-26,Male,6,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-417,1976-01-11,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-374,1976-11-13,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-466,1977-01-30,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-434,1977-02-26,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-385,1977-04-06,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-386,1977-06-22,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-432,1977-08-06,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-454,1977-10-22,Male,4,Within 24 hr,Placebo–Placebo,No,No,3,No,2,No
-401,1978-01-20,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-475,1978-04-09,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-408,1978-10-23,Female,6,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
-488,1978-11-30,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-490,1978-12-22,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
-447,1979-11-01,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-461,1979-12-20,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-458,1981-01-21,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-436,1981-09-14,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-430,1981-10-16,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-491,1982-01-12,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-483,1982-10-30,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-463,1982-12-30,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-427,1983-11-07,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-390,1985-02-24,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-489,1985-03-03,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-383,1985-06-02,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
-473,1985-06-11,Female,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-494,1985-07-09,Female,5,Within 24 hr,Placebo–Placebo,No,No,4,No,4,No
-446,1985-11-01,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-441,1985-12-08,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-493,1986-01-31,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-414,1986-04-20,Male,3,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-476,1987-06-24,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-429,1987-07-05,Female,4,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
-419,1987-12-26,Male,6,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-405,1989-12-23,Female,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-481,1988-08-15,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-460,1987-12-29,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-413,1989-11-17,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
-426,1988-05-18,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-443,1989-04-19,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-425,1991-03-13,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-395,1992-01-05,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-465,1993-07-29,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-381,1992-12-03,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-433,1993-03-05,Male,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-477,1993-04-01,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-392,1995-04-04,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-438,1994-10-02,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
-479,1997-08-22,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-393,1997-01-16,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-480,1997-01-21,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-410,1998-03-13,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-391,1998-12-05,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-400,1999-02-16,Female,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
-412,2001-06-13,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+470,1928-09-03,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+445,1928-06-24,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+387,1931-09-06,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+418,1936-05-26,Male,5,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+484,1940-08-19,Male,6,Within 24 hr,Placebo–Placebo,No,No,4,No,4,No
+437,1944-08-04,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+403,1941-11-06,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+435,1944-12-21,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+415,1944-08-04,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+442,1950-12-27,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+440,1948-05-03,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+439,1952-09-24,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+375,1952-03-03,Female,4,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
+450,1951-02-27,Male,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+462,1953-07-19,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+467,1952-10-14,Male,4,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
+469,1952-11-27,Female,5,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+455,1957-10-26,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+487,1955-12-07,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+378,1957-12-16,Male,2,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+379,1959-02-02,Female,3,Within 24 hr,Placebo–Placebo,No,No,3,No,3,No
+485,1957-08-14,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+373,1955-09-17,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+382,1957-09-27,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,3,No
+389,1961-02-03,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+409,1958-06-12,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+492,1958-12-12,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+423,1959-03-23,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+421,1960-03-01,Female,6,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+384,1961-08-26,Female,2,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+420,1964-03-04,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+448,1963-01-10,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+394,1962-05-10,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,1,Yes
+459,1963-05-31,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,3,No,2,No
+478,1964-07-18,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+399,1961-05-15,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+397,1961-06-29,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+464,1964-03-26,Male,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+486,1963-08-07,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+449,1963-11-08,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+456,1965-04-09,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+411,1966-02-24,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+471,1967-01-21,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+474,1963-11-04,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+452,1968-12-29,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+380,1966-01-01,Female,2,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+407,1964-07-29,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+402,1966-12-29,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+377,1966-12-01,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+428,1969-06-23,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+457,1968-04-19,Male,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+376,1969-10-07,Female,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+396,1967-08-20,Female,4,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
+422,1968-06-19,Male,4,>48 to ≤72 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+388,1968-04-02,Male,3,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+424,1968-01-15,Male,5,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+444,1971-11-26,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+416,1971-07-15,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+431,1970-12-07,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+406,1972-01-15,Female,5,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
+451,1971-02-14,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+482,1973-03-06,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+404,1972-10-14,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+468,1971-01-03,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+472,1971-04-03,Female,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+398,1975-02-28,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+453,1970-12-05,Male,6,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+417,1974-12-13,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+374,1971-06-02,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+466,1971-08-10,Female,6,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+434,1975-07-14,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+385,1973-06-02,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+386,1976-02-25,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+432,1972-08-17,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+454,1973-08-08,Male,4,Within 24 hr,Placebo–Placebo,No,No,3,No,2,No
+401,1976-06-27,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+475,1976-08-25,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+408,1976-07-07,Female,6,Within 24 hr,Placebo–Placebo,No,No,2,No,2,No
+488,1976-05-10,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+490,1977-06-25,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+447,1974-07-11,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+461,1976-10-13,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+458,1979-08-20,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+436,1980-07-29,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+430,1981-01-22,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+491,1981-07-28,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+483,1978-09-05,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+463,1979-11-16,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+427,1982-12-29,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+390,1982-07-06,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+489,1979-12-09,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+383,1983-06-26,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,2,No
+473,1981-03-28,Female,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+494,1982-07-04,Female,5,Within 24 hr,Placebo–Placebo,No,No,4,No,4,No
+446,1983-11-25,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+441,1981-12-21,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+493,1983-09-09,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+414,1984-04-12,Male,3,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+476,1983-10-30,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+429,1986-01-01,Female,4,Within 24 hr,Placebo–Placebo,No,No,3,No,1,Yes
+419,1984-08-09,Male,6,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+460,1982-11-21,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+426,1986-07-22,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+481,1984-10-08,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+443,1984-04-07,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+413,1987-06-20,Male,4,Within 24 hr,Placebo–Placebo,No,No,2,No,1,Yes
+405,1985-12-22,Female,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+425,1989-02-24,Male,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+395,1987-12-20,Male,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+381,1988-12-25,Female,3,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+433,1991-10-15,Male,5,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+477,1990-10-25,Male,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+465,1991-01-24,Female,3,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+438,1990-04-03,Female,4,>24 to ≤48 hr,Placebo–Placebo,No,No,2,No,1,Yes
+392,1989-12-30,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+393,1993-01-28,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+480,1996-09-17,Male,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+479,1992-03-14,Male,4,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+410,1996-06-16,Female,4,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+391,1995-05-02,Female,2,Within 24 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+400,1998-05-29,Female,2,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
+412,1998-09-07,Male,5,>24 to ≤48 hr,Placebo–Placebo,No,No,1,Yes,1,Yes
